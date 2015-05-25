@@ -1,5 +1,3 @@
-package dani.rafa.elena;
-
 public class Love {
 	
 	//This method should be written in the front side of the t-shirt
